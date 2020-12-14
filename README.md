@@ -1,4 +1,4 @@
-# Hotel_Manager
+## Hotel_Manager
 Nguyễn Văn Long - 18001158 (Homework Day 7) 
 
 # Yêu cầu thực hành đối với sinh viên: 
@@ -11,4 +11,7 @@ Nguyễn Văn Long - 18001158 (Homework Day 7)
 
 - Trình bày các Use-case vào các stories  
 
+# 1. Goals:
+
+- 
 
