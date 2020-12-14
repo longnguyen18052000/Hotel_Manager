@@ -37,5 +37,13 @@ Nguyễn Văn Long - 18001158 (Homework Day 7)
 
 * Khách hàng có thể hủy phòng nếu hủy trước ngày đến. Nếu khác hàng hủy sau ngày đặt có thể bị lưu vào danh sách đen và có thể bị từ chổi đặt phòng cho lần tiếp theo. 
 
+# 2. Business Objectives:
 
+* Đáp ứng đầy đủ các yêu cầu.
+
+* Không để chậm tiến độ, hạn trong 2 tháng phải hoàn thành.
+
+* Đảm bảo bảo mật và độ chính xác của thông tin.
+
+* Liên tục cập nhật cho phù hợp môi trường áp dụng.
 
